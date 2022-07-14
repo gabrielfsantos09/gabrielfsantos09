@@ -16,6 +16,7 @@ These are the technologies that I already know how to work with and I’m curren
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- ![Python](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=python)
 
 ---
 
